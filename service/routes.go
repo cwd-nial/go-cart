@@ -11,6 +11,7 @@ type Route struct {
 
 type Routes []Route
 
+// Initialize our routes
 var routes = Routes{
 	Route{
 		"info",
